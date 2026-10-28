@@ -1,0 +1,2 @@
+Solución: error de inicio de sesión en portal del cliente
+Los usuarios del cliente no podían iniciar sesión en el portal después de la actualización. La causa fue una sesión guardada en caché del navegador. La solución es borrar la caché y las cookies, y volver a entrar. Si el error sigue, revisar que la contraseña no haya expirado en el directorio activo.

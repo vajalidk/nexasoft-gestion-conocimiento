@@ -1,0 +1,1 @@
+Anoche el disco del servidor de base de datos se llenó y el servicio se detuvo. Operaciones liberó espacio, levantó el servicio y configuró una alerta de disco.

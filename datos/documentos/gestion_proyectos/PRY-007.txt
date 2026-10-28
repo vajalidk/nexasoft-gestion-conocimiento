@@ -1,0 +1,2 @@
+Cierre de proyecto y entrega al cliente
+Al cerrar el proyecto se entrega la documentación, los accesos y el manual de usuario. El cliente firma el acta de aceptación. El equipo hace una reunión de lecciones aprendidas. El soporte pasa a la mesa de ayuda con toda la información del sistema.

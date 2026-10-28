@@ -1,0 +1,2 @@
+Proceso de revisión de código (code review)
+Cada cambio se sube en una rama y se abre un pull request. Otro desarrollador revisa el código, deja comentarios y aprueba. No se puede integrar a la rama principal sin al menos una aprobación. La revisión sirve para compartir conocimiento y detectar errores.

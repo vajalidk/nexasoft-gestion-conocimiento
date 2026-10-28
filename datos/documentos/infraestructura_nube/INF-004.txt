@@ -1,0 +1,2 @@
+Reporte de incidente: certificado SSL vencido
+El sitio del cliente mostraba aviso de sitio inseguro porque el certificado SSL venció. Se renovó el certificado y se reinició el balanceador. Para evitarlo se configuró la renovación automática y una alerta treinta días antes del vencimiento.

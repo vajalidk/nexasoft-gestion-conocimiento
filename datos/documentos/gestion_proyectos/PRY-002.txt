@@ -1,0 +1,2 @@
+Plantilla de estimación de tiempos y costos
+La plantilla ayuda a estimar cuánto tiempo y dinero cuesta un proyecto. Se llena por fases: análisis, desarrollo, pruebas y salida a producción. Usa datos de proyectos pasados parecidos. El líder de proyecto la revisa con el cliente antes de firmar.

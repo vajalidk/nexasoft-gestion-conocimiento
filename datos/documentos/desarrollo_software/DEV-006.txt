@@ -1,0 +1,2 @@
+Manual de despliegue de aplicaciones web
+Para desplegar una aplicación se construye la imagen, se corren las pruebas y se sube al ambiente de pruebas. Si todo pasa, se despliega a producción con el pipeline de integración continua. Después del despliegue se revisan los registros para confirmar que no hay errores.

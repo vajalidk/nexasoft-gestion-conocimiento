@@ -1,0 +1,1 @@
+Se documenta el endpoint para consultar clientes en la API. Recibe el identificador del cliente y regresa sus datos en JSON. Se agregaron pruebas unitarias para los casos de error.

@@ -1,0 +1,2 @@
+Ticket frecuente: la aplicación móvil se cierra sola
+Varios clientes reportan que la aplicación móvil se cierra al abrir la sección de pedidos. El problema pasa en versiones viejas del sistema operativo. La solución temporal es actualizar el teléfono. El ticket se escaló a desarrollo para corregir la compatibilidad.

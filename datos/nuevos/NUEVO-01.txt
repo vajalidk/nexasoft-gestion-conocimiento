@@ -1,0 +1,1 @@
+El cliente no puede entrar al sistema y dice que su contraseña no funciona desde ayer. Ya intentó varias veces y ahora aparece un mensaje de cuenta bloqueada.

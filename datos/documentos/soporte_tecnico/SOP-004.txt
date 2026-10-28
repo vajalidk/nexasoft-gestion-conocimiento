@@ -1,0 +1,2 @@
+Solución: impresora de etiquetas no imprime desde el sistema
+El sistema de almacén no manda trabajos a la impresora de etiquetas. El controlador estaba desactualizado. Se instaló el controlador nuevo y se reinició el servicio de impresión. El agente debe confirmar con el usuario que ya imprime.

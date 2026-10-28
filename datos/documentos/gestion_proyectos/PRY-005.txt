@@ -1,0 +1,2 @@
+Gestión de riesgos del proyecto
+Cada proyecto tiene una lista de riesgos con su probabilidad e impacto. El líder revisa la lista cada semana con el equipo. Para cada riesgo alto se define un plan de acción y un responsable. Los riesgos cerrados se guardan como lecciones aprendidas.

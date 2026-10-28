@@ -1,0 +1,2 @@
+Documentación técnica: API de pedidos
+La API de pedidos permite crear, consultar y cancelar pedidos. Usa autenticación con token y responde en formato JSON. Cada endpoint tiene validaciones de datos obligatorios. Los errores regresan un código y un mensaje claro para el desarrollador que la consume.

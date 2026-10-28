@@ -1,0 +1,2 @@
+Corrección de bug: cálculo de impuestos en carrito
+El carrito calculaba mal el impuesto cuando había descuentos. El error estaba en el orden de las operaciones. Se corrigió para aplicar primero el descuento y luego el impuesto. Se agregó una prueba unitaria para que el bug no regrese.

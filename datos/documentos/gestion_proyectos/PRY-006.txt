@@ -1,0 +1,2 @@
+Lecciones aprendidas: migración a la nube de cliente de banca
+La migración salió bien porque se hizo por fases y con pruebas en cada paso. Lo que falló fue la comunicación con el área de seguridad del cliente. Para el siguiente proyecto hay que incluir a seguridad desde la primera reunión.

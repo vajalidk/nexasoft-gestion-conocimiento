@@ -1,0 +1,2 @@
+Solución: reporte de ventas tarda mucho en cargar
+Un cliente reporta que el reporte de ventas tarda varios minutos. El filtro de fechas estaba abierto y traía todos los años. Se le explicó al usuario cómo filtrar por mes. Si el problema sigue con filtro, escalar a datos para revisar la consulta.

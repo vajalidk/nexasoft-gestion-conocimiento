@@ -1,0 +1,2 @@
+Lecciones aprendidas: implementación SAP en cliente de manufactura
+El proyecto se retrasó dos semanas porque los requerimientos cambiaron a la mitad. Aprendimos que hay que cerrar el alcance por escrito antes de empezar. También que las pruebas con usuarios deben planearse desde el inicio. Estas lecciones se usarán en los siguientes proyectos SAP.

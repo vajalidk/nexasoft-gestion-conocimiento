@@ -1,0 +1,2 @@
+Solución: SAP muestra error al generar factura
+Al generar una factura en SAP aparece un error de autorización. El usuario no tenía el rol de facturación asignado. Se resolvió asignando el rol correcto desde la transacción de usuarios. Se recomienda revisar permisos antes de escalar el ticket.

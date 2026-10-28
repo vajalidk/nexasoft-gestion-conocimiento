@@ -1,0 +1,2 @@
+Reporte de avance semanal del proyecto de tienda en línea
+Esta semana se terminó el módulo de carrito y se empezaron las pruebas. El proyecto va en tiempo pero con un riesgo en la integración de pagos. Se acordó con el cliente una reunión para revisar ese riesgo. El avance general es del sesenta por ciento.

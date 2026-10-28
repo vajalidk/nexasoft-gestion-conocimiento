@@ -1,0 +1,2 @@
+Solución: usuario bloqueado por intentos fallidos
+El usuario quedó bloqueado después de tres intentos fallidos de contraseña. El agente verifica la identidad del usuario y desbloquea la cuenta. Después le pide cambiar la contraseña. Este es uno de los tickets más comunes de la mesa de ayuda.

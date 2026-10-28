@@ -1,0 +1,2 @@
+Documentación técnica: integración con SAP por servicios web
+La integración con SAP se hace con servicios web que reciben pedidos y clientes. Cada mensaje se valida antes de enviarse. Si SAP regresa un error, el mensaje se guarda en una cola para reintentar. El desarrollador debe revisar el formato de fechas y montos.

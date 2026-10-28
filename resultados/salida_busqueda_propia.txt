@@ -1,0 +1,11 @@
+Documentos indexados: 42 | Términos en el vocabulario: 607
+
+======================================================================
+CONSULTA: "necesito la política para trabajar desde casa"
+======================================================================
+1. [POL-002] Política de trabajo remoto
+   Categoría: Políticas internas | Similitud: 0.352
+2. [PRY-008] Metodología ágil en proyectos con clientes
+   Categoría: Gestión de proyectos | Similitud: 0.126
+3. [POL-001] Política de seguridad de la información
+   Categoría: Políticas internas | Similitud: 0.125

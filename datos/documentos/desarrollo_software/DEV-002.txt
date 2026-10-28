@@ -1,0 +1,2 @@
+Guía de estilo de código del equipo
+Todo el código debe seguir la guía de estilo del equipo. Los nombres de variables y funciones deben ser claros. Cada función debe tener una sola responsabilidad. Antes de subir cambios al repositorio se corre el linter y las pruebas unitarias.

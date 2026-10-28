@@ -1,0 +1,2 @@
+Procedimiento de recuperación ante desastres
+Si la región principal de la nube falla, los servicios se levantan en la región secundaria. El procedimiento indica el orden para levantar bases de datos, aplicaciones y balanceadores. Se hace un simulacro cada seis meses para practicar.

@@ -1,0 +1,2 @@
+Modernización de sistema legado a microservicios
+El sistema viejo del cliente se divide en microservicios por módulo. Primero se separa el módulo de clientes y luego el de pedidos. Cada microservicio tiene su propia base de datos y su API. La migración se hace por fases para no detener la operación.

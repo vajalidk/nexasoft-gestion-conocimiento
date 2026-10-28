@@ -1,0 +1,2 @@
+Reporte de incidente: ataque de fuerza bruta al servidor
+Se detectaron miles de intentos de acceso al servidor desde direcciones desconocidas. Operaciones bloqueó las direcciones en el firewall y activó la protección contra fuerza bruta. No hubo acceso indebido. Se revisaron los registros de seguridad para confirmar.

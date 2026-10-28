@@ -1,0 +1,2 @@
+Control de costos de la nube
+Cada mes se revisa cuánto gasta cada cliente en la nube. Se apagan las máquinas de pruebas fuera del horario laboral. Se eliminan discos y respaldos que ya no se usan. El reporte de costos se comparte con el líder de proyecto.

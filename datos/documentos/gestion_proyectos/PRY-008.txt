@@ -1,0 +1,2 @@
+Metodología ágil en proyectos con clientes
+Los proyectos se trabajan en sprints de dos semanas. Al inicio de cada sprint se planean las tareas y al final se muestran avances al cliente. Las retrospectivas sirven para mejorar la forma de trabajar del equipo.

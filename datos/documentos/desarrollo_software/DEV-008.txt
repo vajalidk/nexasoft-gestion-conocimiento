@@ -1,0 +1,2 @@
+Estándar de pruebas unitarias
+Cada función nueva debe tener pruebas unitarias. Las pruebas deben cubrir el caso normal y los casos de error. El pipeline no deja integrar código si alguna prueba falla. Se busca una cobertura mínima del ochenta por ciento.

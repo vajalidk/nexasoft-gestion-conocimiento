@@ -1,0 +1,2 @@
+Monitoreo de servidores y alertas
+Todos los servidores se monitorean en tiempo real. Se revisan uso de procesador, memoria, disco y tiempo de respuesta. Cuando un valor pasa el límite se manda una alerta al equipo de guardia. Las alertas se revisan cada mes para quitar las que no sirven.

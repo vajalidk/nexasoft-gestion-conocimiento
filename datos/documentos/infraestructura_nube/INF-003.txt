@@ -1,0 +1,2 @@
+Configuración de máquinas virtuales en la nube
+Las máquinas virtuales se crean con plantillas para que todas tengan la misma configuración. Se definen el tamaño, la red y las reglas de firewall. El acceso se da solo con llaves y nunca con contraseña. Cada máquina se etiqueta con el cliente y el ambiente.

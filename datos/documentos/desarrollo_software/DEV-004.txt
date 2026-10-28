@@ -1,0 +1,2 @@
+Componente reutilizable: módulo de autenticación
+Este módulo maneja el inicio de sesión, el registro y la recuperación de contraseña. Se puede reutilizar en cualquier proyecto web del cliente. Incluye pruebas unitarias y ejemplos de uso. Está guardado en el repositorio de componentes compartidos.

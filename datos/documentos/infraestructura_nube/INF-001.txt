@@ -1,0 +1,2 @@
+Reporte de incidente: caída del servidor de producción
+El servidor de producción dejó de responder por falta de memoria. El equipo de operaciones reinició el servicio y aumentó la memoria de la máquina virtual. La caída duró cuarenta minutos. Se agregó una alerta para avisar cuando la memoria pase del ochenta por ciento.

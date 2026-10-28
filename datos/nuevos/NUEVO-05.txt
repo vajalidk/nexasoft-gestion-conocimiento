@@ -1,0 +1,1 @@
+Ningún empleado puede compartir información de los clientes por correo personal. Los datos se deben guardar solo en los sistemas autorizados de la empresa.

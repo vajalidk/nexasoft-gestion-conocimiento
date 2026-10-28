@@ -1,0 +1,41 @@
+Documentos indexados: 42 | Términos en el vocabulario: 607
+
+======================================================================
+CONSULTA: "el usuario no puede entrar porque su cuenta está bloqueada"
+======================================================================
+1. [SOP-008] Solución: usuario bloqueado por intentos fallidos
+   Categoría: Soporte técnico | Similitud: 0.272
+2. [SOP-001] Solución: error de inicio de sesión en portal del cliente
+   Categoría: Soporte técnico | Similitud: 0.118
+3. [PRY-007] Cierre de proyecto y entrega al cliente
+   Categoría: Gestión de proyectos | Similitud: 0.077
+
+======================================================================
+CONSULTA: "qué hacer si se cae el servidor por falta de memoria"
+======================================================================
+1. [INF-001] Reporte de incidente: caída del servidor de producción
+   Categoría: Infraestructura y nube | Similitud: 0.477
+2. [INF-007] Reporte de incidente: ataque de fuerza bruta al servidor
+   Categoría: Infraestructura y nube | Similitud: 0.160
+3. [INF-005] Monitoreo de servidores y alertas
+   Categoría: Infraestructura y nube | Similitud: 0.100
+
+======================================================================
+CONSULTA: "cómo estimar el tiempo y costo de un proyecto nuevo"
+======================================================================
+1. [PRY-002] Plantilla de estimación de tiempos y costos
+   Categoría: Gestión de proyectos | Similitud: 0.239
+2. [PRY-003] Reporte de avance semanal del proyecto de tienda en línea
+   Categoría: Gestión de proyectos | Similitud: 0.140
+3. [INF-005] Monitoreo de servidores y alertas
+   Categoría: Infraestructura y nube | Similitud: 0.118
+
+======================================================================
+CONSULTA: "los pedidos de la tienda no llegan a SAP"
+======================================================================
+1. [SOP-009] Solución: no se sincronizan los pedidos entre tienda y SAP
+   Categoría: Soporte técnico | Similitud: 0.505
+2. [DEV-007] Documentación técnica: integración con SAP por servicios web
+   Categoría: Desarrollo de software | Similitud: 0.245
+3. [DEV-001] Documentación técnica: API de pedidos
+   Categoría: Desarrollo de software | Similitud: 0.165

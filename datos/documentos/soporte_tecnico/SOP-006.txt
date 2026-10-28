@@ -1,0 +1,2 @@
+Solución: correo de notificaciones no llega al cliente
+Los correos automáticos de confirmación no llegaban a los clientes. Se encontró que caían en la carpeta de spam. Se configuró el registro SPF del dominio y los correos empezaron a llegar. Documentar el caso para clientes con el mismo proveedor de correo.

@@ -1,0 +1,2 @@
+Procedimiento de respaldo de bases de datos
+Las bases de datos se respaldan todos los días en la madrugada. Los respaldos se guardan en un almacenamiento en la nube en otra región. Cada semana se prueba restaurar un respaldo para confirmar que funciona. Si falla un respaldo, se genera una alerta al equipo de guardia.

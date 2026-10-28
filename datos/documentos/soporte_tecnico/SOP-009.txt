@@ -1,0 +1,2 @@
+Solución: no se sincronizan los pedidos entre tienda y SAP
+Los pedidos de la tienda en línea no aparecían en SAP. La interfaz de integración se había detenido por un error de formato en un pedido. Se corrigió el pedido y se reinició la interfaz. Se avisó al cliente y se revisó que todos los pedidos pendientes se cargaran.

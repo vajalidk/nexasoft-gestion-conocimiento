@@ -1,0 +1,2 @@
+Guía de atención de tickets en la mesa de ayuda
+Todo ticket debe registrarse con cliente, sistema afectado y descripción del error. El agente revisa primero la base de conocimiento para ver si la falla ya tiene solución. Si no existe, intenta resolverla y documenta los pasos. Si no puede, escala el ticket con toda la información.
